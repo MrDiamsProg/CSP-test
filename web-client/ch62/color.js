@@ -1,1 +1,1 @@
-alert("oui");
+<iframe src="javascript:alert(1)">
