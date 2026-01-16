@@ -1,1 +1,1 @@
-alert(oui);
+alert("oui");
